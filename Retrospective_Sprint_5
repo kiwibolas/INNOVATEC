@@ -7,6 +7,8 @@ Aunque ya se habían realizado pruebas, el análisis de resultados fue más
 complicado de lo esperado. Al principio no estaban tan claras las fallas, así que se tuvo que revisar 
 varias veces para entender bien qué estaba pasando. .-Oscar
 
+Más que nada, buscar a las personas que puedan hacer la prueba, pero como tal, obstaculos no tuve, ya que era muy claro la interfaz del dispositivo. -Andrea
+
 2. ¿Qué actividades sirvieron para mejorar el proyecto?
 Aplique encuestas y eso ayudó bastante. Pudimos obtener comentarios concretos de los usuarios sobre lo que les parecía 
 útil y qué cosas necesitaban mejorar, lo cual nos dio una mejor perspectiva para seguir afinando el sistema.
@@ -15,6 +17,9 @@ Aplique encuestas y eso ayudó bastante. Pudimos obtener comentarios concretos d
 El análisis de las pruebas permitió identificar errores puntuales. Gracias a eso se pudieron implementar correcciones 
 que ya fueron verificadas, y eso le dio mucha más estabilidad al sistema. .-Oscar
 
+El hecho de hacer la pruba de usabilidad, nos ayudo a saber en que se podria mejorar en un futuro nuestro dispositivo. -Andrea
+
+
 3. ¿Cuáles son los puntos de mejora del proyecto?
 Nos dimos cuenta de que necesitamos un mejor sistema para recopilar y organizar la retroalimentación de los usuarios. 
 A veces se pierde información valiosa si no se documenta bien desde el principio. .-Mariana
@@ -22,3 +27,5 @@ A veces se pierde información valiosa si no se documenta bien desde el principi
 Creemos que hay que acortar el tiempo entre que se detecta un problema y se corrige. A veces las soluciones tardan en
 implementarse y eso puede frenar el avance del proyecto.
 .- Oscar
+
+Creo que mejorar un poquito la interfaz del dispositivo, que se pueda exportar de manera más facil y más organizada. -Andrea
