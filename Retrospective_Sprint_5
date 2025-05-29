@@ -1,1 +1,24 @@
+1. ¿Qué obstáculos se presentaron en el sprint?
+tuve como principal obstáculo coordinar a los usuarios de prueba. 
+Nos costó bastante encontrar personas disponibles que representaran bien al usuario final y que pudieran probar el sistema.
+.-Mariana
 
+Aunque ya se habían realizado pruebas, el análisis de resultados fue más 
+complicado de lo esperado. Al principio no estaban tan claras las fallas, así que se tuvo que revisar 
+varias veces para entender bien qué estaba pasando. .-Oscar
+
+2. ¿Qué actividades sirvieron para mejorar el proyecto?
+Aplique encuestas y eso ayudó bastante. Pudimos obtener comentarios concretos de los usuarios sobre lo que les parecía 
+útil y qué cosas necesitaban mejorar, lo cual nos dio una mejor perspectiva para seguir afinando el sistema.
+.-Mariana
+
+El análisis de las pruebas permitió identificar errores puntuales. Gracias a eso se pudieron implementar correcciones 
+que ya fueron verificadas, y eso le dio mucha más estabilidad al sistema. .-Oscar
+
+3. ¿Cuáles son los puntos de mejora del proyecto?
+Nos dimos cuenta de que necesitamos un mejor sistema para recopilar y organizar la retroalimentación de los usuarios. 
+A veces se pierde información valiosa si no se documenta bien desde el principio. .-Mariana
+
+Creemos que hay que acortar el tiempo entre que se detecta un problema y se corrige. A veces las soluciones tardan en
+implementarse y eso puede frenar el avance del proyecto.
+.- Oscar
